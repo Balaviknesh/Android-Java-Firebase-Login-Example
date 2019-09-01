@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FirebaseLogin</string>
+    <string name="welcome">Welcome</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="TandC">I agree to the terms and condition of the AppCompany</string>
+    <string name="error_view">Error View</string>
+    <string name="password">Password</string>
+    <string name="email_hint">user@domain.com</string>
+    <string name="email">Email</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="email_verify_again">Send Verify Email Again</string>
+    <string name="enterEmailId">Enter the registered Email ID</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="user_domain_com">user@domain.com</string>
+</resources>
