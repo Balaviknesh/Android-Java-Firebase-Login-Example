@@ -18,7 +18,7 @@ _*_Notes_*_
 * Min SDK Version 16
 * Target SDK Version 29
 
-Please don’t forget to create [Firebase Project for Android](https://firebase.google.com/docs/android/setup?authuser=0) and to add the google services json file to your Android project. 
+Please don’t forget to create [Firebase Project for Android](https://firebase.google.com/docs/android/setup?authuser=0) and add the google services json file to your Android project. 
 
 https://imgur.com/Zc9RV3s
 
