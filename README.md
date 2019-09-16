@@ -1,3 +1,4 @@
+
 # Android Java Firebase Login Complete Setup
 
 This example Android application project has the complete and latest login system using Firebase. The Login system uses the firebase-auth library and Email & Password Authentication method. 
@@ -31,6 +32,8 @@ Module
 Project
 ‘com.google.gms:google-services:4.3.2’
 
+
+![alt text](https://firebase.google.com/downloads/brand-guidelines/PNG/logo-built_black.png)
 
 _*_Screen Shots:_*_
 
