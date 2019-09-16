@@ -1,3 +1,4 @@
+![alt text](https://firebase.google.com/downloads/brand-guidelines/PNG/logo-built_black.png)
 
 # Android Java Firebase Login Complete Setup
 
@@ -32,8 +33,6 @@ Module
 Project
 ‘com.google.gms:google-services:4.3.2’
 
-
-![alt text](https://firebase.google.com/downloads/brand-guidelines/PNG/logo-built_black.png)
 
 _*_Screen Shots:_*_
 
