@@ -18,7 +18,7 @@ _*_Notes_*_
 
 Please don’t forget to create [Firebase Project for Android](https://firebase.google.com/docs/android/setup?authuser=0) and to add the google services json file to your Android project. 
 
-![Screenshot](Firebase Login Screenshots/Screenshot_1568053843.png)
+![Alt](https://imgur.com/Zc9RV3s)
 
 
 You can also connect to firebase from Android Studio through [Assistant](https://developer.android.com/studio/write/firebase) tool.
