@@ -34,6 +34,4 @@ Project
 ‘com.google.gms:google-services:4.3.2’
 
 
-_*_Screen Shots:_*_
-
-https://github.com/Balaviknesh/Android-Java-Firebase-Login-Example/tree/master/%20Firebase%20Login%20Screenshots
+[Screen Shots](https://github.com/Balaviknesh/Android-Java-Firebase-Login-Example/tree/master/%20Firebase%20Login%20Screenshots)
